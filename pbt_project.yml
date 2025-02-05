@@ -6,7 +6,7 @@ language: scala
 buildSystem: ''
 buildSystemDetails:
   artefactID: waylonleuschke
-  parentArtefactID: ''
+  parentArtefactID: l5khykm0uciabxqtgm6urlupcomteam
   buildSystem: maven
   author: null
   createdAt: '2025-02-05 14:10:25'
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
@@ -48,10 +48,10 @@ projectDependencies:
     projectUID: 144
     projectName: karleen.willms
     repositoryPath: gitUri=http://gitserver:3000/dev_qCh2BGno_team_246/dev_qCh2BGno_project_144.git&subPath=
-    version: karleen.willms/7.64.851
+    version: karleen.willms/0.81.534
     isDefault: false
     author: null
-    createdAt: '2025-02-05 14:10:22'
+    createdAt: '2025-02-05 14:10:51'
 flags:
   shouldAddDefaultDependenciesIfAbsent: true
 pipelineConfigurations: {}
