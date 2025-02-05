@@ -1,0 +1,57 @@
+name: waylon.leuschke
+description: empowering
+version: 0.2.529
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: waylonleuschke
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 14:10:25'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 14:10:25'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T14:10:25.277807Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '379686957'
+  createdAt: '2025-02-05T14:10:25.277807Z'
+  type: plibMaven
+projectDependencies:
+  '144':
+    projectUID: 144
+    projectName: karleen.willms
+    repositoryPath: gitUri=http://gitserver:3000/dev_qCh2BGno_team_246/dev_qCh2BGno_project_144.git&subPath=
+    version: karleen.willms/7.64.851
+    isDefault: false
+    author: null
+    createdAt: '2025-02-05 14:10:22'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
